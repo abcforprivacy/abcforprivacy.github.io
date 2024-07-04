@@ -1,0 +1,382 @@
+{
+    "instance_id": 11,
+    "trucks": [
+        {
+            "truckId": 0,
+            "position": 1,
+            "capacity": 32,
+            "freighter": 0
+        },
+        {
+            "truckId": 1,
+            "position": 1,
+            "capacity": 32,
+            "freighter": 0
+        }
+    ],
+    "map": [
+        {
+            "origin": 1,
+            "destination": 2,
+            "distance": 6
+        },
+        {
+            "origin": 1,
+            "destination": 3,
+            "distance": 14
+        },
+        {
+            "origin": 1,
+            "destination": 4,
+            "distance": 11
+        },
+        {
+            "origin": 2,
+            "destination": 1,
+            "distance": 6
+        },
+        {
+            "origin": 2,
+            "destination": 3,
+            "distance": 10
+        },
+        {
+            "origin": 2,
+            "destination": 4,
+            "distance": 12
+        },
+        {
+            "origin": 3,
+            "destination": 1,
+            "distance": 14
+        },
+        {
+            "origin": 3,
+            "destination": 2,
+            "distance": 10
+        },
+        {
+            "origin": 3,
+            "destination": 4,
+            "distance": 13
+        },
+        {
+            "origin": 4,
+            "destination": 1,
+            "distance": 11
+        },
+        {
+            "origin": 4,
+            "destination": 2,
+            "distance": 12
+        },
+        {
+            "origin": 4,
+            "destination": 3,
+            "distance": 13
+        }
+    ],
+    "orders": [
+        {
+            "orderId": 0,
+            "origin": 1,
+            "destination": 3,
+            "volume": 8
+        },
+        {
+            "orderId": 1,
+            "origin": 1,
+            "destination": 3,
+            "volume": 20
+        },
+        {
+            "orderId": 2,
+            "origin": 4,
+            "destination": 2,
+            "volume": 3
+        },
+        {
+            "orderId": 3,
+            "origin": 2,
+            "destination": 1,
+            "volume": 1
+        },
+        {
+            "orderId": 4,
+            "origin": 4,
+            "destination": 2,
+            "volume": 3
+        },
+        {
+            "orderId": 5,
+            "origin": 4,
+            "destination": 1,
+            "volume": 20
+        },
+        {
+            "orderId": 6,
+            "origin": 1,
+            "destination": 3,
+            "volume": 18
+        },
+        {
+            "orderId": 7,
+            "origin": 1,
+            "destination": 3,
+            "volume": 16
+        },
+        {
+            "orderId": 8,
+            "origin": 3,
+            "destination": 2,
+            "volume": 7
+        },
+        {
+            "orderId": 9,
+            "origin": 4,
+            "destination": 1,
+            "volume": 17
+        },
+        {
+            "orderId": 10,
+            "origin": 1,
+            "destination": 3,
+            "volume": 5
+        },
+        {
+            "orderId": 11,
+            "origin": 4,
+            "destination": 2,
+            "volume": 2
+        },
+        {
+            "orderId": 12,
+            "origin": 1,
+            "destination": 4,
+            "volume": 6
+        },
+        {
+            "orderId": 13,
+            "origin": 1,
+            "destination": 2,
+            "volume": 5
+        },
+        {
+            "orderId": 14,
+            "origin": 1,
+            "destination": 3,
+            "volume": 4
+        },
+        {
+            "orderId": 15,
+            "origin": 2,
+            "destination": 3,
+            "volume": 15
+        },
+        {
+            "orderId": 16,
+            "origin": 1,
+            "destination": 4,
+            "volume": 9
+        },
+        {
+            "orderId": 17,
+            "origin": 1,
+            "destination": 2,
+            "volume": 9
+        },
+        {
+            "orderId": 18,
+            "origin": 2,
+            "destination": 3,
+            "volume": 5
+        },
+        {
+            "orderId": 19,
+            "origin": 4,
+            "destination": 1,
+            "volume": 19
+        },
+        {
+            "orderId": 20,
+            "origin": 4,
+            "destination": 3,
+            "volume": 16
+        },
+        {
+            "orderId": 21,
+            "origin": 3,
+            "destination": 4,
+            "volume": 16
+        },
+        {
+            "orderId": 22,
+            "origin": 1,
+            "destination": 4,
+            "volume": 20
+        },
+        {
+            "orderId": 23,
+            "origin": 2,
+            "destination": 4,
+            "volume": 17
+        },
+        {
+            "orderId": 24,
+            "origin": 4,
+            "destination": 3,
+            "volume": 9
+        },
+        {
+            "orderId": 25,
+            "origin": 1,
+            "destination": 2,
+            "volume": 14
+        },
+        {
+            "orderId": 26,
+            "origin": 4,
+            "destination": 1,
+            "volume": 17
+        },
+        {
+            "orderId": 27,
+            "origin": 1,
+            "destination": 4,
+            "volume": 13
+        },
+        {
+            "orderId": 28,
+            "origin": 3,
+            "destination": 2,
+            "volume": 12
+        },
+        {
+            "orderId": 29,
+            "origin": 1,
+            "destination": 2,
+            "volume": 19
+        },
+        {
+            "orderId": 30,
+            "origin": 3,
+            "destination": 2,
+            "volume": 11
+        },
+        {
+            "orderId": 31,
+            "origin": 4,
+            "destination": 1,
+            "volume": 3
+        },
+        {
+            "orderId": 32,
+            "origin": 4,
+            "destination": 2,
+            "volume": 2
+        },
+        {
+            "orderId": 33,
+            "origin": 3,
+            "destination": 1,
+            "volume": 8
+        },
+        {
+            "orderId": 34,
+            "origin": 1,
+            "destination": 3,
+            "volume": 10
+        },
+        {
+            "orderId": 35,
+            "origin": 4,
+            "destination": 1,
+            "volume": 19
+        },
+        {
+            "orderId": 36,
+            "origin": 3,
+            "destination": 1,
+            "volume": 14
+        },
+        {
+            "orderId": 37,
+            "origin": 2,
+            "destination": 1,
+            "volume": 13
+        },
+        {
+            "orderId": 38,
+            "origin": 2,
+            "destination": 4,
+            "volume": 17
+        },
+        {
+            "orderId": 39,
+            "origin": 2,
+            "destination": 3,
+            "volume": 7
+        },
+        {
+            "orderId": 40,
+            "origin": 4,
+            "destination": 2,
+            "volume": 19
+        },
+        {
+            "orderId": 41,
+            "origin": 2,
+            "destination": 3,
+            "volume": 2
+        },
+        {
+            "orderId": 42,
+            "origin": 3,
+            "destination": 2,
+            "volume": 16
+        },
+        {
+            "orderId": 43,
+            "origin": 4,
+            "destination": 3,
+            "volume": 5
+        },
+        {
+            "orderId": 44,
+            "origin": 2,
+            "destination": 1,
+            "volume": 20
+        },
+        {
+            "orderId": 45,
+            "origin": 2,
+            "destination": 1,
+            "volume": 11
+        },
+        {
+            "orderId": 46,
+            "origin": 2,
+            "destination": 1,
+            "volume": 2
+        },
+        {
+            "orderId": 47,
+            "origin": 1,
+            "destination": 2,
+            "volume": 7
+        },
+        {
+            "orderId": 48,
+            "origin": 1,
+            "destination": 4,
+            "volume": 13
+        },
+        {
+            "orderId": 49,
+            "origin": 3,
+            "destination": 2,
+            "volume": 13
+        }
+    ],
+    "solution": null
+}
