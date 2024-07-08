@@ -2,7 +2,8 @@
 
 A simulator developed in MESA for swarm-based task scheduling, while providing privacy for transport providers in logistics.
 
-The source is available here: https://github.com/abcforprivacy/abcforprivacy.github.io
+The source is available here: 
+    https://github.com/abcforprivacy/abcforprivacy.github.io
 
 ### If you use this simulator, please cite the accompanying scientific paper:
 
