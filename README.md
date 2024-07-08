@@ -6,7 +6,7 @@ The source is available here: https://github.com/abcforprivacy/abcforprivacy.git
 
 ### If you use this simulator, please cite the accompanying scientific paper:
 
-Gojković, M.; and Schranz, M. (2024). Preserving Privacy in Logistics by using Swarm Intelligence from the Bottom-Up. Currently under review at the 12th IEEE International Conference on Intelligent Systems.
+Gojković, M. and Schranz, M. (in press). Preserving Privacy in Logistics by using Swarm Intelligence from the Bottom-Up. In Proceedings of the 12th IEEE International Conference on Intelligent Systems.
 
 ## Installation
 ### Step 1.a)
