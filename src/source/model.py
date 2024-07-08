@@ -9,8 +9,8 @@ License text can be found at https://creativecommons.org/licenses/by/4.0/deed.en
 Transportation Model 
 
 Applies modeled Artificial Bee Colony (ABC) swarm algorithm for task scheduling in logistics, while preserving freighter's privacy. 
-The accompanying scientific paper: Gojković, M., and Schranz, M. (2024). Preserving Privacy in Logistics by using Swarm Intelligence from the Bottom-Up. 
-                                   Currently under review at the 12th IEEE International Conference on Intelligent Systems. 
+The accompanying scientific paper: Gojković, M., and Schranz, M. (in press). Preserving Privacy in Logistics by using Swarm Intelligence from the Bottom-Up. 
+                                   In Proceedings of the 12th IEEE International Conference on Intelligent Systems. 
 
 """
 
